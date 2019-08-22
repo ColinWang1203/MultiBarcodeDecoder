@@ -1,0 +1,4 @@
+#Tue Jul 18 14:01:55 CST 2017
+base.0=C\:\\Users\\user\\OneDrive\\android-Camera2Basic-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\user\\OneDrive\\android-Camera2Basic-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
