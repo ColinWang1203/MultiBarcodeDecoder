@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\5622d167d4b707d097b2e9b31803070d6563b5b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\user\OneDrive\android-Camera2Basic-master\Application\build\intermediates\pre-dexed\debug\classes_033254322fadcd336808df7bc41381d0e1b67970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\16f48d01974d849f10b3711413bc44ed89718c12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\user\OneDrive\android-Camera2Basic-master\Application\build\intermediates\pre-dexed\debug\classes_ab369a5191e395708b45d475d194d62ea9a1be70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\f1dbacc6bcd643b4fca03bb39564f6afde8a0980\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\user\OneDrive\android-Camera2Basic-master\Application\build\intermediates\pre-dexed\debug\classes_d1c6388eaf21ae3f5a3970125415d764472298c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\OneDrive\android-Camera2Basic-master\openCVLibrary300\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2d4234c35a65ffb9e5b6111bb4f9cea0a696ece3">
+        <dex dex="C:\Users\user\OneDrive\android-Camera2Basic-master\Application\build\intermediates\pre-dexed\debug\classes_4e42135ec8a3c31e840685ea572df228b69bf16a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\7771a1b57e88adb92d8440132a6fc41724c932b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\user\OneDrive\android-Camera2Basic-master\Application\build\intermediates\pre-dexed\debug\classes_14073d3e97ce70cb4a1b844cba5c8d77cbb408b2.jar" />
+    </item>
+
+</items>

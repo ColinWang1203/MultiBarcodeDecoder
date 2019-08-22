@@ -1,0 +1,4 @@
+#Thu Aug 22 10:26:49 CST 2019
+base.0=D\:\\0_mybackups\\CV\\opencv\\MultiBarcodeDecoder\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
